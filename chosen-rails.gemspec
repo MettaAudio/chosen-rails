@@ -16,8 +16,8 @@ Gem::Specification.new do |gem|
   gem.version       = Chosen::Rails::VERSION
 
   gem.add_dependency 'railties', '>= 3.0'
-  gem.add_dependency 'coffee-rails', '>= 3.2'
-  gem.add_dependency 'sass-rails', '>= 3.2'
+  gem.add_dependency 'coffee-rails', '>= 5.0.0'
+  gem.add_dependency 'sass-rails', '>= 5.0.0'
   gem.add_dependency 'compass-rails', '>= 2.0.2'
 
   gem.add_development_dependency 'bundler', '>= 1.0'
